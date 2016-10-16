@@ -1,0 +1,43 @@
+body {
+	font-family: 'Lora', serif;
+}
+
+.navbar {
+	background-color: #DCD0C0;
+}
+
+.navbar-brand {
+	font-weight: bold;
+	font-size: 2.5em;
+}
+
+.row {
+	padding: 0 2px 0 2px;
+	margin: 0 2px 0 2px;
+	background-color: #DCD0C0;
+}
+
+.nav {
+	font-size: 1.5em;
+	background-color: white;
+}
+
+#nav-list {
+	background-color: #FDEBD0;
+	border: 0;
+}
+
+.break {
+	margin: 0;
+	border-color: black;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+}
